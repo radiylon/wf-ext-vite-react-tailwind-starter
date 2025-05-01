@@ -1,5 +1,5 @@
 {
-  "name": "wf-ext-color-palette",
+  "name": "wf-ext-vite-react-tailwind-starter",
   "publicDir": "dist",
   "size": "default",
   "apiVersion": "2"
